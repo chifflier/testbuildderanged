@@ -1,4 +1,4 @@
-use time::*;
+use time::OffsetDateTime;
 
 fn build_ok() {
     let b1: &[u8] = &[0_u8, 1];
